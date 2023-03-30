@@ -5,7 +5,7 @@
 }
 @media(min-width:320px){
     .container{
-        font-size: x-small;
+        font-size:8px;
     }
     
     .am{
@@ -18,7 +18,7 @@
 }
 @media(min-width:600px){
     .container{
-        font-size:medium;
+        font-size:12px;
     }
     
     .am{
@@ -31,7 +31,7 @@
 }
 @media(min-width:1024px){
     .container{
-        font-size:x-large;
+        font-size:20px;
     }
     
     .am{
