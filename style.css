@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-@media(min-width:320px){
+@media(min-width:280px){
     .container{
         font-size:8px;
     }
